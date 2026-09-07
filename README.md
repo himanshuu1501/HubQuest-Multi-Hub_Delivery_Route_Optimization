@@ -158,8 +158,5 @@ executables_bin\calculate_opti_value.exe
 # Analysis output in module_opti_value_calculator\analysis_output.txt
 ```
 
-## Authors
-- Mayukh Kun
-
 ## License
 MIT License
