@@ -159,7 +159,7 @@ executables_bin\calculate_opti_value.exe
 ```
 
 ## Authors
-- Mayukh Kundu
+- Mayukh Kun
 
 ## License
 MIT License
