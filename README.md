@@ -142,7 +142,7 @@ As organized in `DIRECTORY_GUIDE.md`:
 
 ```powershell
 # 1. Clone repository
-git clone https://github.com/MKSILVER13/hub_quest.git
+git clone https://github.com/himanshuu1501/HubQuest-Multi-Hub_Delivery_Route_Optimization.git
 cd hub_quest
 
 # 2. Build executables
